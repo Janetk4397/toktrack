@@ -18,3 +18,4 @@ description = "Ultra-fast token & cost tracker for LLM Token Usage (e.g. Claude 
 # handle the edge case from the last release
 # clarify the control flow
 # drop an unused branch
+# guard against empty input
