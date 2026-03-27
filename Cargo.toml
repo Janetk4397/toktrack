@@ -40,3 +40,4 @@ description = "Ultra-fast token & cost tracker for LLM Token Usage (e.g. Claude 
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
 # drop an unused branch
+# match the style used in the rest of the module
